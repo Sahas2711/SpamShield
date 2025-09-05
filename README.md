@@ -123,8 +123,8 @@ MIT License
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Sahas2711](https://github.com/Sahas2711)
+- Email: sahasnagar1234@gmail.com
 
 ---
 
